@@ -5,6 +5,8 @@
     }
   },
   "require-dev": {
-    "mockery/mockery": "^1.6"
+    "mockery/mockery": "^1.6",
+    "ipl/i18n": "^0.2.2",
+    "zendframework/zendframework1": "^1.12"
   }
 }
